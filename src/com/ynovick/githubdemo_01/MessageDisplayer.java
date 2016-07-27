@@ -4,7 +4,9 @@ public class MessageDisplayer {
 	private String msg;
 	public MessageDisplayer(String msg)
 	{
-		// do something
+		int x = 7;
+		x++;
+		x--;
 		this.msg = msg;
 	}
 	public int getNumber()
