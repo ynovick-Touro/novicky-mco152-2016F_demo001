@@ -4,7 +4,7 @@ public class MessageDisplayer {
 	private String msg;
 	public MessageDisplayer(String msg)
 	{
-		int x = 7;
+		int x = 9;
 		x++;
 		x--;
 		this.msg = msg;
