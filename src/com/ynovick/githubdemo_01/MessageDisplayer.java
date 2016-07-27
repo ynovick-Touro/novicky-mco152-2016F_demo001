@@ -12,8 +12,7 @@ public class MessageDisplayer {
 	public int getNumber()
 	{
 		// oh how I wish I was a sailor, just sailing away at sea...
-		return 12;
-		// comment
+		return 12; // comment
 	}
 	public void display()
 	{
